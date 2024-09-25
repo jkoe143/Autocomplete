@@ -1,10 +1,3 @@
-/*-------------------------------------------
-Program: tests.cpp
-Course: CS 251, Summer 2024, UIC
-System: Advanced zyLab system
-Author: Jason Park
--------------------------------------------*/
-
 #include <iostream>
 #include "AutocompleteList.h"
 
